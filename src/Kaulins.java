@@ -7,7 +7,7 @@ public class Kaulins {
 		 Random rand = new Random();
 		 skaitlis = rand.nextInt(6)+1;
 		 System.out.println("Uzkritis skaitlis: "+skaitlis);
-		 
+		 System.out.println("Jauna rinda");
 		 
 	 }
  }
